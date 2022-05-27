@@ -7,16 +7,11 @@ You may trod me in the very dirt
 But still, like dust, I'll rise.
 
 ## Verse 2
-<<<<<<< HEAD
+Does my sassiness upset you?
 Why are you beset with gloom?
 'Cause I walk like I've got oil wells
 Pumping in my living room.
 
-=======
-Does my sassiness upset you?
-Why are you beset with gloom?
-'Cause I walk like I've got oil wells
->>>>>>> 56036019149b368fad39d15c6d125a24571a4ca1
 ## Verse 3
 Just like moons and like suns,
 With the certainty of tides,
